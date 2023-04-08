@@ -1,0 +1,2 @@
+# chrome_extensions
+收集些Chrome插件历史版本去除更新功能
